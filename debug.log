@@ -1,0 +1,17 @@
+[1202/113124.877:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1202/142155.229:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1202/171300.902:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\AcerComp\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\be94595c-e3dc-4298-979f-33206ccc30ca: Системе не удается найти указанный путь. (0x3)
+[1202/171300.932:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\AcerComp\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\cad22291-4f23-456d-89a4-fcd7274b1999: Системе не удается найти указанный путь. (0x3)
+[1202/171300.932:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1203/103933.047:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/103933.030:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/104856.880:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1203/115001.484:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1203/141752.938:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1203/144803.427:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/144829.218:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1203/145737.362:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/145737.420:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/145810.143:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/145813.955:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/150323.378:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
